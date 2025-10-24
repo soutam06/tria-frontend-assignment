@@ -257,9 +257,9 @@ This project is developed for the Tria Frontend Assignment. All rights reserved.
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+**Soutam Rajbhar**
+- GitHub: [@soutam06](https://github.com/soutam06)
+- LinkedIn: [Soutam Rajbhar](https://www.linkedin.com/in/soutam-rajbhar-bb1624290)
 
 ---
 
